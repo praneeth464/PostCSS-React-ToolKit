@@ -1,0 +1,6 @@
+$fontSize: 34px;
+
+li
+{
+    font-size: $fontSize;
+}

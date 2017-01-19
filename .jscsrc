@@ -1,0 +1,12 @@
+{
+  "preset": "airbnb",
+
+  "validateIndentation": 2,
+  "requireMultipleVarDecl": false,
+
+  "excludeFiles": [
+    "node_modules/**",
+    "build/**",
+    "*.js",
+  ]
+}
